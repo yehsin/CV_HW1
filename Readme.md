@@ -413,7 +413,7 @@ Axx_a_5_r,Axy_a_5_r,Ayy_a_5_r,responce_a_5_r, landa2_a_5_r = structure_matrix(si
 
 | Rotate Chess Structure Tensor |Rotate notredame Structure Tensor |
 | -------- |--- |
-|![](https://i.imgur.com/AKib6Ga.png)|![](https://i.imgur.com/HZcRqJh.png)|
+|![](https://i.imgur.com/AKib6Ga.png =50%x)|![](https://i.imgur.com/HZcRqJh.png)|
 
 ```python
 # Chess rotated image
